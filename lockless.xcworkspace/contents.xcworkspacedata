@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:gmock-1.7.0/gtest/xcode/gtest/gtest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:gmock-1.7.0/xcode/gmock/gmock.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lockless/lockless.xcodeproj">
+   </FileRef>
+</Workspace>
