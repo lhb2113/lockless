@@ -10,4 +10,7 @@
    <FileRef
       location = "group:lockless/lockless.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:demo/demo.xcodeproj">
+   </FileRef>
 </Workspace>

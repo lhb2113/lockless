@@ -3,7 +3,6 @@
 
 #include <boost/uuid/uuid.hpp>
 #include <asio.hpp>
-#include <boost/function.hpp>
 
 #include "object.h"
 #include "defines.h"

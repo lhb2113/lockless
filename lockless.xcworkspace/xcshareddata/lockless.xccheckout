@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ED16A4F1-08C5-43CA-ACA6-08D15EB725F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>lockless</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>624B9787-BE5D-4AFB-9CDB-63A9D47172D1</key>
+		<string>https://github.com/lhb2113/lockless.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>lockless.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>59BCBC9B-C8B7-4181-B577-438C0AC84FCE</key>
+		<string>../gmock-1.7.0/gtest/xcode/gtest</string>
+		<key>624B9787-BE5D-4AFB-9CDB-63A9D47172D1</key>
+		<string>..</string>
+		<key>B364CCC5-CD62-4626-ABE5-EF19412ACE4A</key>
+		<string>../gmock-1.7.0/xcode/gmock</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lhb2113/lockless.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>624B9787-BE5D-4AFB-9CDB-63A9D47172D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>624B9787-BE5D-4AFB-9CDB-63A9D47172D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>github</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B364CCC5-CD62-4626-ABE5-EF19412ACE4A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gmock</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>59BCBC9B-C8B7-4181-B577-438C0AC84FCE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gtest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

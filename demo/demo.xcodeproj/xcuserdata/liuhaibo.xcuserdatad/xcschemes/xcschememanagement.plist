@@ -4,30 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>lockless.xcscheme</key>
+		<key>client.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>5</integer>
 		</dict>
-		<key>lockless_test.xcscheme</key>
+		<key>server.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>4</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0FFA89851A0DBCF7001C53F1</key>
+		<key>F9FF657B1A70EAE9009D93B9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>0FFA89B71A0DCF25001C53F1</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F9FF656A1A70E908009D93B9</key>
+		<key>F9FF658C1A70F50F009D93B9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
