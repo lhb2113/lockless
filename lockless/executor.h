@@ -24,13 +24,11 @@ public:
 public:
     std::shared_ptr<asio::io_service> worker_service() const;
 private:
-    void execute_worker_service(int _position);
-    void keepalive_worker_service(int _position, std::shared_ptr<asio::deadline_timer> _timer, const asio::error_code& _error);
-private:
     boost::uuids::uuid m_uuid;
-    boost::posix_time::time_duration m_duration;
-    std::vector<std::shared_ptr<std::thread>> m_thread_group;
-    std::vector<std::shared_ptr<asio::io_service>> m_worker_services;
+    std::vector<std::thread> m_thread_group;
+    std::shared_ptr<asio::io_service> m_service;
+    std::shared_ptr<asio::io_service::work> m_work;
+    int m_thread_count;
 };
 
 CLOSE_LOCKLESS_NAMESPACE
