@@ -1,0 +1,3 @@
+# lockless
+# lockless是基于无锁化设计思想设计的socket通信框架。整个框架实现尽量避免使用锁以规避多锁对程序并发运行造成的影响。其中的Context-Handler的设计源于java的netty框架。Lockless对其使用asio c++实现，并加入了自己的一些想法和实现。
+# 包括服务端部分和客户端部分。服务端部分以server_bootstrap为核心，提供对指定端口的监听。客户端部分以client_bootstrap为核心，提供对指定socket的连接。
